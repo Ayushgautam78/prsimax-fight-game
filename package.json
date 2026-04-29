@@ -1,0 +1,17 @@
+{
+  "name": "prismax-fight-backend",
+  "version": "1.0.0",
+  "description": "PrismaX Fight Club multiplayer server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "socket.io": "^4.8.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
